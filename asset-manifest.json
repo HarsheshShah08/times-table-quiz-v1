@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/times-table-quiz-v1/static/css/main.18ec4509.css",
-    "main.js": "/times-table-quiz-v1/static/js/main.8372941f.js",
+    "main.js": "/times-table-quiz-v1/static/js/main.240b93af.js",
     "index.html": "/times-table-quiz-v1/index.html",
     "main.18ec4509.css.map": "/times-table-quiz-v1/static/css/main.18ec4509.css.map",
-    "main.8372941f.js.map": "/times-table-quiz-v1/static/js/main.8372941f.js.map"
+    "main.240b93af.js.map": "/times-table-quiz-v1/static/js/main.240b93af.js.map"
   },
   "entrypoints": [
     "static/css/main.18ec4509.css",
-    "static/js/main.8372941f.js"
+    "static/js/main.240b93af.js"
   ]
 }
