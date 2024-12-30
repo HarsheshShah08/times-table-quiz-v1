@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/times-table-quiz-v1/static/css/main.f855e6bc.css",
-    "main.js": "/times-table-quiz-v1/static/js/main.3a03ba92.js",
-    "static/js/453.129ebc83.chunk.js": "/times-table-quiz-v1/static/js/453.129ebc83.chunk.js",
-    "static/media/logo.svg": "/times-table-quiz-v1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/times-table-quiz-v1/static/css/main.18ec4509.css",
+    "main.js": "/times-table-quiz-v1/static/js/main.68ffff38.js",
     "index.html": "/times-table-quiz-v1/index.html",
-    "main.f855e6bc.css.map": "/times-table-quiz-v1/static/css/main.f855e6bc.css.map",
-    "main.3a03ba92.js.map": "/times-table-quiz-v1/static/js/main.3a03ba92.js.map",
-    "453.129ebc83.chunk.js.map": "/times-table-quiz-v1/static/js/453.129ebc83.chunk.js.map"
+    "main.18ec4509.css.map": "/times-table-quiz-v1/static/css/main.18ec4509.css.map",
+    "main.68ffff38.js.map": "/times-table-quiz-v1/static/js/main.68ffff38.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3a03ba92.js"
+    "static/css/main.18ec4509.css",
+    "static/js/main.68ffff38.js"
   ]
 }
